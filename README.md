@@ -23,7 +23,7 @@ WebGL Clustered and Forward+ Shading
 
 ## Live Online
 
-[![](images/clustered1.png)](http://klaywittler.github.io/Project6-WebGL-Deferred-Shading)
+[![](images/clustered1.png)](http://klaywittler.github.io/Project6-WebGL-Clustered-Deferred-Forward-Plus)
 *Note: click the image to go to online demo.*
 
 
